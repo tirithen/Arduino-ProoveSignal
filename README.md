@@ -26,7 +26,7 @@ The data on the physical link is code so that every bit is sent as two bits, 0 =
     C = Channel bits.
     E = Unit bits. Device to be turned on or off. Unit #1 = 00, #2 = 01, #3 = 10.
 
-More details can be found at [](http://tech.jolowe.se/home-automation-rf-protocols/).
+More details can be found at [http://tech.jolowe.se/home-automation-rf-protocols/](http://tech.jolowe.se/home-automation-rf-protocols/).
 
 ## License
 Released under the GPLv3 license.
