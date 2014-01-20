@@ -1,6 +1,7 @@
 /**
  * ProoveSignal - An Arduino library that is used for sending radio
  * signals with an 433Mhz transmitter to Proove power outlets.
+ *
  * Copyright (C) 2014  Fredrik Söderström <tirithen@gmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
