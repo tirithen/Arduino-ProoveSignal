@@ -46,6 +46,7 @@ union ProoveSignal
     unsigned long remote :26;
   } parts;
   unsigned long data;
+  unsigned char bytes[4];
 };
 
 void prooveSignalSendData(char pin, unsigned long data);
