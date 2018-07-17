@@ -5,19 +5,19 @@
 #######################################
 # Datatypes (KEYWORD1)
 #######################################
-ProoveSignal KEYWORD1
+ProoveSignal	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
-prooveSignalSend    KEYWORD2
-unit                KEYWORD2
-channel             KEYWORD2
-status              KEYWORD2
-group               KEYWORD2
-remote              KEYWORD2
-parts               KEYWORD2
-data                KEYWORD2
+prooveSignalSend	KEYWORD2
+unit	KEYWORD2
+channel	KEYWORD2
+status	KEYWORD2
+group	KEYWORD2
+remote	KEYWORD2
+parts	KEYWORD2
+data	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
